@@ -1,6 +1,6 @@
 {
   "name": "start-create-index",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "start task for create-index",
   "main": "index.js",
   "repository": "laggingreflex/start-create-index",
