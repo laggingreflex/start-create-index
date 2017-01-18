@@ -1,0 +1,15 @@
+{
+  "name": "start-create-index",
+  "version": "0.0.0",
+  "description": "start task for create-index",
+  "repository": "laggingreflex/start-create-index",
+  "dependencies": {
+    "create-index": "^1.1.0"
+  },
+  "files": [],
+  "keywords": [
+    "start",
+    "start-task",
+    "create-index"
+  ]
+}
